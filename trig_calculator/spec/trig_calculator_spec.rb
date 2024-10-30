@@ -1,5 +1,3 @@
-# spec/trig_calculator_spec.rb
-
 require "spec_helper"
 require 'trig_calculator'
 
