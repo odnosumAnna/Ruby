@@ -1,8 +1,4 @@
-# frozen_string_literal: true
-
 require_relative "trig_calculator/version"
-
-# lib/trig_calculator.rb
 
 module TrigCalculator
   def self.sin(angle)
