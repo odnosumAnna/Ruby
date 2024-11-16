@@ -74,3 +74,4 @@ end
 
 
 #rspec rss_generator_spec.rb
+
