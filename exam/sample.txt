@@ -1,0 +1,5 @@
+Hello world
+Ruby is great
+Hello world
+Lazy evaluation is cool
+Ruby is great
